@@ -1,4 +1,4 @@
-import 'package:astronaut/master_detail_container.dart';
+import 'package:graphql_gui/master_detail_container.dart';
 import 'package:flutter/material.dart';
 import 'graphql.dart';
 import 'package:http/http.dart' as http;

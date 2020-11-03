@@ -1,6 +1,6 @@
-import 'package:astronaut/request_details.dart';
-import 'package:astronaut/request.dart';
-import 'package:astronaut/request_list.dart';
+import 'package:graphql_gui/request_details.dart';
+import 'package:graphql_gui/request.dart';
+import 'package:graphql_gui/request_list.dart';
 import 'package:flutter/material.dart';
 
 class MasterDetailContainer extends StatefulWidget {
